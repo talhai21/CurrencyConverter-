@@ -2,7 +2,7 @@
 //  Utils.swift
 //  CurrencyConverter
 //
-//  Created by Chukwuka Okwusiuno on 2024-05-31.
+//  Created by Chukwuka Okwusiuno | Talha Inam on 2024-05-31.
 //
 
 import Foundation
